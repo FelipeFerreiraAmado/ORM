@@ -65,10 +65,6 @@ Para configurar e executar o projeto localmente, siga os passos abaixo:
 -   **Seeds de Dados**: População inicial do banco de dados com dados de exemplo.
 -   **Tipagem Segura**: Benefícios do TypeScript para garantir a segurança dos tipos em todas as interações com o banco de dados.
 
-## 📸 Screenshots
-
-*(Para um projeto de backend/ORM, screenshots podem não ser diretamente aplicáveis. No entanto, você pode adicionar capturas de tela de ferramentas de gerenciamento de banco de dados mostrando as tabelas e dados, ou de testes de API com ferramentas como Insomnia/Postman.)*
-
 ## 🔮 Melhorias Futuras
 
 -   Implementar autenticação e autorização.
